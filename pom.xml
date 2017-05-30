@@ -28,9 +28,9 @@
     </scm>
     <developers>
         <developer>
-            <id>pcampillo</id>
-            <name>Pablo Campillo-Sanchez</name>
-            <email>pabcampi@ucm.es</email>
+            <id>marlonca</id>
+            <name>Marlon Cardenas</name>
+            <email>marlonca@ucm.es</email>
         </developer>
         <developer>
             <id>escalope</id>
@@ -40,12 +40,10 @@
     </developers>
     <properties>
         <vendor>GRASIA Research Group</vendor>
-        <!-- maven does not allow to refer to developers property defined at the
-            beginning -->
-        <!-- an echoproperties task shows there is no accesible project.developers
-            property -->
-        <developername>Pablo Campillo-Sanchez</developername>
-        <developeremail>pabcampi@ucm.es</developeremail>
+        <!-- maven does not allow to refer to developers property defined at the beginning -->
+        <!-- an echoproperties task shows there is no accesible project.developers property -->
+        <developername>Marlon Cardenas</developername>
+        <developeremail>marlonca@ucm.es</developeremail>
         <!-- begin: izpack configuration -->
         <ingenme.version>1.0.8</ingenme.version>
         <!-- end: izpack configuration -->

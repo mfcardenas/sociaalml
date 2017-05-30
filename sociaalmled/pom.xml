@@ -22,9 +22,9 @@
     </licenses>
     <developers>
         <developer>
-            <id>pcampillo</id>
-            <name>Pablo Campillo-Sanchez</name>
-            <email>pabcampi@ucm.es</email>
+            <id>marlonca</id>
+            <name>Marlon Cardenas</name>
+            <email>marlonca@ucm.es</email>
         </developer>
         <developer>
             <id>escalope</id>
@@ -750,9 +750,7 @@
         </plugins>
         <pluginManagement>
             <plugins>
-                <!--This plugin's configuration is used to store Eclipse m2e settings
-                    only. It has no influence on the Maven build itself. -->
-
+                <!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself. -->
                 <plugin>
                     <groupId>org.eclipse.m2e</groupId>
                     <artifactId>lifecycle-mapping</artifactId>
@@ -802,8 +800,8 @@
             beginning -->
         <!-- an echoproperties task shows there is no accesible project.developers
             property -->
-        <developername>Pablo Campillo-Sanchez</developername>
-        <developeremail>pabcampi@ucm.es</developeremail>
+        <developername>Marlon Cardenas</developername>
+        <developeremail>marlonca@ucm.es</developeremail>
         <!-- begin: izpack configuration -->
         <staging.dir>${project.build.directory}/staging</staging.dir>
         <izpack-standalone.version>4.3.5</izpack-standalone.version>
